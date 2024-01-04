@@ -1,9 +1,9 @@
 # Introduction
 
-This is a sample e-commerce application built for learning purposes.
+This repository contains an e-commerce app code that is designed for DevOps beginners who want to practice specifically with CI/CD.
 Credits: KodeKloud.
 
-If you're putting it on virtual machines, whether it's a server in your office or creating one in the cloud, just follow these steps. Else jump to the Azure App Service part.
+If you're putting(deployment target) it on virtual machines, whether it's a server in your office or creating one in the cloud, just follow these steps. Else jump to the Azure App Service part.
 
 Here's how to deploy it on CentOS systems:
 
