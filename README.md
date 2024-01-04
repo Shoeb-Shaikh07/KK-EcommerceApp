@@ -1,10 +1,13 @@
 # Introduction
 
 This is a sample e-commerce application built for learning purposes.
+Credits: KodeKloud.
+
+If you're putting it on virtual machines, whether it's a server in your office or creating one in the cloud, just follow these steps. Else jump to the Azure App Service part.
 
 Here's how to deploy it on CentOS systems:
 
-## Deploy Pre-Requisites
+## Deploy Pre-Requisites If Virtual Machine
 
 1. Install FirewallD
 
